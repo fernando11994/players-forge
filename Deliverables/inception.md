@@ -24,7 +24,6 @@ their social media accounts in order to share and promote their own mods.
 
 **Summary:**
 **Assessment: Must have:N/A / Nice to have: N/A / Don’t care:**
- - Logan stated that he would like a system that does not have alot of ads.
 **Interviewer:** Fernando Diaz\
 **Interviewee:** Logan(Loggy) Haga\
 **When:** February 6, 2021\
@@ -33,6 +32,7 @@ Logan is a PC gamer, he plays games such as League of Legends, and Victoria 2.
 He is studying education, and wants to bring education to the younger generation.
 
 **Key Insights:**
+- Logan stated that he would like a system that does not have alot of ads.
 - He beliefs that this service would be ideal for older games, if it is just as
 convenient as steam or better. He did say, he plays an older game called:
 Victoria, which does not have many mods given its age.
