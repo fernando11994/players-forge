@@ -24,7 +24,7 @@ their social media accounts in order to share and promote their own mods.
 
 **Summary:**
 **Assessment: Must have:N/A / Nice to have: N/A / Don’t care:**
- - Logan stated that he would like a
+ - Logan stated that he would like a system that does not have alot of ads.
 **Interviewer:** Fernando Diaz\
 **Interviewee:** Logan(Loggy) Haga\
 **When:** February 6, 2021\
