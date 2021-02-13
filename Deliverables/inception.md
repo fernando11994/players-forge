@@ -90,12 +90,12 @@ A service with tons of ads.
 ### Interview 4:
 **Summary:** Carson believes that a system such a PlayersForge can be useful, as long as it
 features proper communication. Or features that can unite players together.  
-**Assessment: Must have:N/A / Nice to have: N/A / Don’t care:**
 **Interviewer:** Fernando Diaz \
 **Interviewee:** Carson Posciask \
 **When:** February 7, 2021\
-**Consumer Segment:** Carson is a gamer, obsessed with the KFC game: I love You Colonel Sanders, Rainbow Siege Six, and Call of Duty.
+**Consumer Segment:** Carson is a gamer, obsessed with the KFC game I love You Colonel Sanders, Rainbow Siege Six, and Call of Duty.\
 **Key Insights:**
+**Assessment: Must have:N/A / Nice to have: N/A / Don’t care:**
 **Representative Quotes:**
 
 
