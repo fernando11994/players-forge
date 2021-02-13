@@ -23,7 +23,7 @@ their social media accounts in order to share and promote their own mods.
 ### Interview 1:
 
 **Summary:**
-**Assessment: Must have:N/A / Nice to have: N/A / Don’t care:**
+**Assessment: Must have:N/A / Nice to have: N/A / Don’t care:**\
 **Interviewer:** Fernando Diaz\
 **Interviewee:** Logan(Loggy) Haga\
 **When:** February 6, 2021\
